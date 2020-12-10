@@ -19,8 +19,6 @@
         </p>
         
        <div>
-        <asp:Button ID="Button2" runat="server" OnClick="Button2_Click1" Text="Registro" Width="100px" />
-        <asp:Button ID="Button3" runat="server" Text="Ingresar" Width="100px" OnClick="Button3_Click" />
           </div>
        
         <br>
